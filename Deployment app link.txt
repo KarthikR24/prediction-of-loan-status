@@ -1,0 +1,1 @@
+https://share.streamlit.io/rachana-1999/loan_status/main/logistic_bank.py
